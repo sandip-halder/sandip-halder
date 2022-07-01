@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **Sandiphalder.slg@gmail.com**
 
-- 📫 Leetcode Profile **https://leetcode.com/sandiphalder/**
+- ![image](https://user-images.githubusercontent.com/103144982/176955212-11f74623-ca52-4288-b0a4-6f1a57ef9615.png)
+ Leetcode Profile **https://leetcode.com/sandiphalder/**
 
 
 - ⚡ Fun fact **I am a guitarist & Gamer**
