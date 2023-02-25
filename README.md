@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandip-halder&label=Profile%20views&color=0e75b6&style=flat" alt="sandip-halder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sandiphalder_" target="blank"><img src="https://img.shields.io/twitter/follow/sandiphalder_?logo=twitter&style=for-the-badge" alt="sandiphalder_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codesandip" target="blank"><img src="https://img.shields.io/twitter/follow/codesandip?logo=twitter&style=for-the-badge" alt="codesandip" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at(https://sandiphalder.netlify.app/)
 
