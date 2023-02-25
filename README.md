@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [sandiphalder.000webhostapp.com](sandiphalder.000webhostapp.com)
+- 👨‍💻 All of my projects are available at(https://sandiphalder.netlify.app/)
 
 - 📫 How to reach me **Sandiphalder.slg@gmail.com**
 
