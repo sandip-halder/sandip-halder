@@ -17,10 +17,6 @@
 
 - ⚡ Fun fact **I read books, listen to HipHop & Rock. I watch Anime. I am a noob guitarist. Love to play Games.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codesandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codesandip" height="30" width="40" /></a>
