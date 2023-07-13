@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "HASHNODE-BLOG-LIST"
-          feed_list: "https://sandiphalder.hashnode.dev/"
+          feed_list: "https://sandiphalder.hashnode.dev"
