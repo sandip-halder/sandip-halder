@@ -26,7 +26,7 @@
 <a href="https://twitter.com/codesandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codesandip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandiphalder11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandiphalder11" height="30" width="40" /></a>
 <a href="https://instagram.com/animech.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="animech.art" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sandiphalder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sandiphalder" height="30" width="40" /></a>
+<a href="https://hashnode.com/@sandiphalder" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="@sandiphalder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
