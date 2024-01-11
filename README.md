@@ -21,8 +21,8 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 ---
 
 ## My Blogs
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
