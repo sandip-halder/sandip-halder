@@ -17,6 +17,8 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 <a href="https://instagram.com/animech.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="animech.art" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sandiphalder" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="@sandiphalder" height="30" width="40" /></a>
 </p>
+<br />
+Portfolio: https://sandiphalder.netlify.app/
 
 ---
 
@@ -30,4 +32,4 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
-Portfolio: https://sandiphalder.netlify.app/
+![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandip-halder&show_icons=true&theme=gruvbox)
