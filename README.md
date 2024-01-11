@@ -18,8 +18,16 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 <a href="https://hashnode.com/@sandiphalder" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="@sandiphalder" height="30" width="40" /></a>
 </p>
 
+---
+
+### My Blogs
+<!-- HASHNODE-BLOG-LIST:START -->
+<!-- HASHNODE-BLOG-LIST:END -->
+
+---
+
 ### 📊 Stats
 
 ![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandip-halder&show_icons=true&theme=gruvbox)
 <br />
-[website]: https://sandiphalder.netlify.app/
+Portfolio: https://sandiphalder.netlify.app/
