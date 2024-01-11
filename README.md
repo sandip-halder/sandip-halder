@@ -24,11 +24,5 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
----
-
 ### 📊 Stats
-
-![Sandip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandip-halder&show_icons=true&theme=gruvbox)
-<br />
 Portfolio: https://sandiphalder.netlify.app/
