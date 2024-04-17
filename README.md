@@ -24,11 +24,11 @@ Full Stack Developer proficient in JavaScript, React JS, HTML, CSS, Java and MyS
 
 ### 📝 My Blogs
 <!-- BLOG-POST-LIST:START -->
+- [10 UX LAWS YOU SHOULD KNOW! Part 1](https://sandiphalder.hashnode.dev/10-ux-laws-you-should-know-part-1)
 - [Mastering Fetch API in JavaScript](https://sandiphalder.hashnode.dev/mastering-fetch-api-in-javascript)
 - [Database Hacking with common SQL Injection commands](https://sandiphalder.hashnode.dev/database-hacking-with-common-sql-injection-commands)
 - [A Beginner&#39;s Guide to Using JSON Servers in Front-End Development](https://sandiphalder.hashnode.dev/a-beginners-guide-to-using-json-servers-in-front-end-development)
 - [Understanding React Components &amp; Props](https://sandiphalder.hashnode.dev/understanding-react-components-props)
-- [A simpler way of explaining Pass by value and Pass by reference in javascript](https://sandiphalder.hashnode.dev/a-simpler-way-of-explaining-pass-by-value-and-pass-by-reference-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Stats
